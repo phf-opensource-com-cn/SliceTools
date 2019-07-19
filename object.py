@@ -9,7 +9,7 @@
 @Description : 
 """
 __author__ = 'panhongfa'
-__project__ = 'SelectKfb'
+__project__ = 'SliceTools'
 
 import os
 
